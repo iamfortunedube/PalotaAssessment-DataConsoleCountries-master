@@ -19,7 +19,7 @@ namespace PalotaInterviewCS
 
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Palota Interview: Country Facts");
-            Console.WriteLine("Github Testing");
+            Console.WriteLine("Data fetch");
             Console.ResetColor();
 
             Random rnd = new Random(); // random to populate fake answer - you can remove this once you use real values
